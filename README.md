@@ -11,8 +11,8 @@
 
 - 💬 Ask me about **my thoughts on novel notetaking solutions, favorite VR apps**
 
-- 🗺 Interested in exploring **crowd sourced, self-governing social platforms**
-
+- 🗺 Interested in backend engineering and full stack engineering roles
+  
 - 📫 Reach me at: [jboustany02@gmail.com](mailto:jboustany02@gmail.com), [LinkedIn](https://www.linkedin.com/in/johnny-boustany)
 
 - 📄 Resume: [PDF](https://drive.google.com/file/d/1-sP95-Zp5Y4OsiFjkxyRIKxMCxeK4imJ/view?usp=sharing)
