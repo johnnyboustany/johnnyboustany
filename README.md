@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Johnny Boustany</h1>
-<h3 align="center">Recent graduate from Brown University with an MS in Computer Science (2023) and a BS in Mechanical Engineering (2022) who loves coding in the evening and bagels 🥯 in the morning!</h3>
+<h3 align="center">Recent graduate from Brown University with an MS in Computer Science (2023) and a BS in Mechanical Engineering (2022) who loves coding in the evening and surfing 🏄‍♂️ in the morning!</h3>
 
 - 🔭 During my time at Brown, I conducted impactful research across various labs, resulting in significant cost savings and improved productivity (check out the Python application I made for the wave-maker device at the Harris Lab!)
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **computational linguistics, computer vision**
   
-- 🌱 A few Hobbies of mine: Surfing, Videomaking, Environmental Advocacy
+- 🌊 A few Hobbies of mine: Surfing, Videomaking, Environmental Advocacy
 
 - 💬 Ask me about **my thoughts on novel notetaking solutions, favorite VR apps**
 
