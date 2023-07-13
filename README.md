@@ -37,9 +37,7 @@
  <a href="https://d3js.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1562726?s=280&v=4" alt="d3.js" width="40" height="40"/> </a>
  <a href="https://www.selenium.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" width="40" height="40"/> </a>
 
-<div align="center"> 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyboustany)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 
