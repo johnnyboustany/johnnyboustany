@@ -48,6 +48,4 @@
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=johnnyboustany&theme=ambient-gradient&mode=weekly" alt="GitHub Streak"></a></p> | <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnyboustany&show_icons=true&locale=en&layout=compact" alt="johnnyboustany" /></p> |
 
-<iframe src="https://www.johnnyboustany.com" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
-
 
