@@ -49,10 +49,10 @@
       <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=johnnyboustany&theme=ambient-gradient&mode=weekly" alt="GitHub Streak">
     </a>
   </p>
+
+</div>
   
   <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnyboustany&show_icons=true&locale=en&layout=compact" alt="johnnyboustany" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnyboustany&show_icons=true&locale=en&layout=compact" alt="johnnyboustany" />
   </p>
-</div>
-
 
