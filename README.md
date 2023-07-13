@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Johnny Boustany</h1>
 
-<img src="header.png" alt="d3.js" width="40" height="40"/>
+<img src="header.png" alt="d3.js" height="200"/>
 
  ![A screenshot of the application in use on a mac](header.png)
 
