@@ -1,9 +1,5 @@
 <h1 align="center"><kbd><img src="header.png" height="210" alt=""/></kbd></h1>
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
+
 <h3 align="center">Recent graduate from Brown University with an MS in Computer Science (2023) and a BS in Mechanical Engineering (2022) who loves coding in the evening and surfing 🏄‍♂️ in the morning!</h3>
 
 - 🔭 During my time at Brown, I conducted impactful research at various labs, resulting in significant cost savings and improved productivity (check out the [Python application](https://github.com/johnnyboustany/WaveGenerator) I made for the wave-maker device at the Harris Lab!)
