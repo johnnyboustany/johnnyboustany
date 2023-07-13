@@ -1,4 +1,4 @@
-<h1 align="center"><img src="header.png" alt="d3.js" height="200"/></h1>
+<h1 align="center"><img src="header.png" alt="d3.js" height="100"/></h1>
 
 <h3 align="center">Recent graduate from Brown University with an MS in Computer Science (2023) and a BS in Mechanical Engineering (2022) who loves coding in the evening and surfing 🏄‍♂️ in the morning!</h3>
 
