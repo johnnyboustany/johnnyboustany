@@ -44,19 +44,9 @@
 
 <h3 align="left">Stats:</h3>
 
-<style>
-.table-wrapper {
-  display: flex;
-  justify-content: center;
-  opacity: 0;
-}
-</style>
-
-<div class="table-wrapper">
 | Contributions                                                                                       | Top Languages                                                                                                           |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=johnnyboustany&theme=ambient-gradient&mode=weekly" alt="GitHub Streak"></a></p> | <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnyboustany&show_icons=true&locale=en&layout=compact" alt="johnnyboustany" /></p> |
-</div>
 
 
 
