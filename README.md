@@ -39,10 +39,7 @@
 <br>
   
 <h3 align="left">Stats:</h3>
-
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=johnnyboustany&theme=ambient-gradient&mode=weekly" alt="GitHub Streak">
   </a>
-</p>
 
