@@ -38,4 +38,4 @@
  <a href="https://www.selenium.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" width="40" height="40"/> </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnnyboustany&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?johnnyboustany)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=johnnyboustany)](https://github.com/anuraghazra/github-readme-stats)
