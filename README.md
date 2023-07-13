@@ -47,11 +47,9 @@
   <a href="https://git.io/streak-stats">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=johnnyboustany&theme=ambient-gradient&mode=weekly" alt="GitHub Streak">
   </a>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnyboustany&show_icons=true&locale=en&layout=compact" alt="johnnyboustany" /></p>
+
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnyboustany&show_icons=true&locale=en&layout=compact" alt="johnnyboustany" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnyboustany&show_icons=true&locale=en" alt="johnnyboustany" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnyboustany&" alt="johnnyboustany" /></p>
