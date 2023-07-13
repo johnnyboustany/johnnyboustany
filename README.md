@@ -34,16 +34,4 @@
  <a href="https://maven.apache.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="maven" width="40" height="40"/> </a>
  <a href="https://www.opengl.org/" target="_blank"> <img src="https://findhao.net/images/featured_imgs/opengl.jpg" alt="opengl" width="40" height="40"/> </a>
  <a href="https://d3js.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1562726?s=280&v=4" alt="d3.js" width="40" height="40"/> </a>
-
  <a href="https://www.selenium.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" width="40" height="40"/> </a>
- <a href="https://www.selenium.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" width="40" height="40"/> </a>
-
- <a href="https://www.selenium.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" width="40" height="40"/> </a>
-
- <a href="https://www.selenium.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" width="40" height="40"/> </a>
-
- <a href="https://www.selenium.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" width="40" height="40"/> </a>
-
-
-
-</p>
