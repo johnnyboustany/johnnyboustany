@@ -42,16 +42,6 @@
   </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
 <br>
   
-<div style="display: flex; justify-content: center;">
-  <div>
-    <h3 align="left">Stats:</h3>
-    <p align="center">
-      <a href="https://git.io/streak-stats">
-        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=johnnyboustany&theme=ambient-gradient&mode=weekly" alt="GitHub Streak">
-      </a>
-    </p>
-  </div>
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnyboustany&show_icons=true&locale=en&layout=compact" alt="johnnyboustany" />
-  </div>
-</div>
+| Stats                                                                                       | Top Languages                                                                                                           |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| <h3 align="left">Stats:</h3><p align="center"><a href="https://git.io/streak-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=johnnyboustany&theme=ambient-gradient&mode=weekly" alt="GitHub Streak"></a></p> | <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnyboustany&show_icons=true&locale=en&layout=compact" alt="johnnyboustany" /></p> |
