@@ -43,6 +43,6 @@
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=johnnyboustany&theme=ambient-gradient&mode=weekly" alt="GitHub Streak">
   </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyboustany&hide=c,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyboustany&hide=c,TeX,XSLT,html)
 
 
