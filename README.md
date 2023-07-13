@@ -1,5 +1,4 @@
- ![A screenshot of the application in use on a mac](header.png)
-
+<h1 align="center">Hey 👋, I'm Johnny Boustany</h1>
 <h3 align="center">Recent graduate from Brown University with an MS in Computer Science (2023) and a BS in Mechanical Engineering (2022) who loves coding in the evening and surfing 🏄‍♂️ in the morning!</h3>
 
 - 🔭 During my time at Brown, I conducted impactful research at various labs, resulting in significant cost savings and improved productivity (check out the [Python application](https://github.com/johnnyboustany/WaveGenerator) I made for the wave-maker device at the Harris Lab!)
