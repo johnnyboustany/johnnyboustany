@@ -1,4 +1,4 @@
-<h1 align="center"><img src="header.png" height="240" alt=""/></h1>
+<h1 align="center"><img src="header.png" height="210" alt=""/></h1>
 
 <h3 align="center">Recent graduate from Brown University with an MS in Computer Science (2023) and a BS in Mechanical Engineering (2022) who loves coding in the evening and surfing 🏄‍♂️ in the morning!</h3>
 
@@ -38,4 +38,7 @@
  <a href="https://www.selenium.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" width="40" height="40"/> </a>
 
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyboustany)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyboustany)](https://github.com/anuraghazra/github-readme-stats)</h1>
+
+
