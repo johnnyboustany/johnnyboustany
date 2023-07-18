@@ -46,6 +46,6 @@
 
 | Contributions                                                                                       | Top Languages                                                                                                           |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=johnnyboustany&theme=ambient-gradient&mode=weekly" alt="GitHub Streak"></a></p> | <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnyboustany&show_icons=true&locale=en&layout=compact&hide=TeX,C" alt="johnnyboustany" /></p> |
+| <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=johnnyboustany&theme=ambient-gradient&mode=weekly" alt="GitHub Streak"></a></p> | <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnyboustany&show_icons=true&locale=en&layout=compact&hide=TeX,C,XSLT,Perl" alt="johnnyboustany" /></p> |
 
 
