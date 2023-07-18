@@ -1,7 +1,7 @@
 [comment]: <> (<h1 align="center"><kbd><img src="header.png" height="210" alt=""/></kbd></h1>
 )
 
-<h1 align="center">Hey 👋, I'm Johnny Boustany</h1>
+<h1 align="center">Hi 👋, I'm Johnny Boustany</h1>
 
 <h3 align="center">Recent graduate from Brown University with an MS in Computer Science (2023) and a BS in Mechanical Engineering (2022) who loves coding in the evening and surfing 🏄‍♂️ in the morning! 🇱🇧🇸🇪🇺🇸 </h3>
 
