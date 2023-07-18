@@ -11,7 +11,7 @@
   
 - 🌊 A few Hobbies of mine: Surfing, Videomaking, Hiking 
 
-- 🗺 Interested in backend engineering and full stack engineering roles
+- 🗺 Interested in full stack engineering roles
   
 - 📫 Reach me at: [jboustany02@gmail.com](mailto:jboustany02@gmail.com), [LinkedIn](https://www.linkedin.com/in/johnny-boustany)
 
