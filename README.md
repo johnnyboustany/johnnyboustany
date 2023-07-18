@@ -7,7 +7,7 @@
 
 - 🔭 During my time at Brown, I conducted impactful research at various labs, resulting in significant cost savings and improved productivity (check out the [Python application](https://github.com/johnnyboustany/WaveGenerator) I made for the wave-maker device at the Harris Lab!)
 
-- 🤖 Last summer I worked as a **Full Stack Software Engineering Intern at [Beytek SAL Offshore](https://www.beytek.co/)** redesigning the customer portal and building a workflow management app with Angular
+- 🤖 Last summer I worked as a **Full Stack Software Engineering Intern at [Beytek SAL Offshore](https://www.beytek.co/)**, redesigning the customer portal and building a workflow management app with Angular
   
 - 🌊 A few Hobbies of mine: Surfing, Videomaking, Environmental Advocacy
 
