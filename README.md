@@ -9,7 +9,7 @@
 
 - 🤖 Last summer I worked as a **Full Stack Software Engineering Intern at [Beytek SAL Offshore](https://www.beytek.co/)**, redesigning the customer portal and building a workflow management app with Angular
   
-- 🌊 A few Hobbies of mine: Animal Activism, Volunteering at Dog Shelters, Surfing, Videomaking, Hiking
+- 🌊 A few Hobbies of mine: Volunteering at Dog Shelters, Surfing, Videomaking, Hiking
 
 - 🗺 Interested in full stack engineering roles
   
