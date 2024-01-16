@@ -9,7 +9,7 @@
 
 <p>🤖 Last summer I worked as a <strong>Full Stack Software Engineering Intern at <a href="https://www.beytek.co/">Beytek SAL Offshore</a></strong>, redesigning the customer portal and building a workflow management app with Angular</p>
 
-<p>🌟 Currently, I am working as a <strong>Full Stack Software Engineer at ForeverFan</strong> in Providence, RI. My role involves optimizing Firestore databases, developing Node.js back-end API endpoints, and enhancing user engagement by 22% through a comprehensive redesign of the analytics homepage. My work supports over 150 artists in the music industry by providing advanced tools for fan engagement and data analytics.</p>
+<p>🌟 Currently, I am working as a <strong>Full Stack Software Engineer at ForeverFan</strong>, based in Providence, RI. My role involves optimizing Firestore databases, developing Node.js back-end API endpoints, and enhancing user engagement by 22% through a comprehensive redesign of the analytics homepage. My work supports over 150 artists in the music industry by providing advanced tools for fan engagement and data analytics.</p>
 
 <p>🌊 A few Hobbies of mine: Volunteering at Dog Shelters, Surfing, Videomaking, Hiking</p>
 
