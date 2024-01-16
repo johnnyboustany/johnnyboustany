@@ -5,15 +5,17 @@
 
 <h3 align="center">Recent graduate from Brown University with an MS in Computer Science (2023) and a BS in Mechanical Engineering (2022) who loves coding in the evening and surfing 🏄‍♂️ in the morning! 🇱🇧🇸🇪🇺🇸 </h3>
 
-- 🔭 During my time at Brown, I conducted impactful research at various labs, resulting in significant cost savings and improved productivity (check out the [Python application](https://github.com/johnnyboustany/WaveGenerator) I worked on for the wave-maker device at the Harris Lab!)
+<p>🔭 During my time at Brown, I conducted impactful research at various labs, resulting in significant cost savings and improved productivity (check out the <a href="https://github.com/johnnyboustany/WaveGenerator">Python application</a> I worked on for the wave-maker device at the Harris Lab!)</p>
 
-- 🤖 Last summer I worked as a **Full Stack Software Engineering Intern at [Beytek SAL Offshore](https://www.beytek.co/)**, redesigning the customer portal and building a workflow management app with Angular
-  
-- 🌊 A few Hobbies of mine: Volunteering at Dog Shelters, Surfing, Videomaking, Hiking
+<p>🤖 Last summer I worked as a <strong>Full Stack Software Engineering Intern at <a href="https://www.beytek.co/">Beytek SAL Offshore</a></strong>, redesigning the customer portal and building a workflow management app with Angular</p>
 
-- 🗺 Interested in full stack engineering roles
-  
-- 📫 Reach me at: [jboustany02@gmail.com](mailto:jboustany02@gmail.com), [LinkedIn](https://www.linkedin.com/in/johnny-boustany)
+<p>🌟 Currently, I am working as a <strong>Full Stack Software Engineer at ForeverFan</strong> in Providence, RI. My role involves optimizing Firestore databases, developing Node.js back-end API endpoints, and enhancing user engagement by 22% through a comprehensive redesign of the analytics homepage. My work supports over 150 artists in the music industry by providing advanced tools for fan engagement and data analytics.</p>
+
+<p>🌊 A few Hobbies of mine: Volunteering at Dog Shelters, Surfing, Videomaking, Hiking</p>
+
+<p>🗺 Interested in full stack engineering roles</p>
+
+<p>📫 Reach me at: <a href="mailto:jboustany02@gmail.com">jboustany02@gmail.com</a>, <a href="https://www.linkedin.com/in/johnny-boustany">LinkedIn</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
