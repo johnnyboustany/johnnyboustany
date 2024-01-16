@@ -13,8 +13,6 @@
 
 <p>🌊 A few Hobbies of mine: Volunteering at Dog Shelters, Surfing, Videomaking, Hiking</p>
 
-<p>🗺 Interested in full stack engineering roles</p>
-
 <p>📫 Reach me at: <a href="mailto:jboustany02@gmail.com">jboustany02@gmail.com</a>, <a href="https://www.linkedin.com/in/johnny-boustany">LinkedIn</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
