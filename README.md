@@ -1,7 +1,7 @@
 [comment]: <> (<h1 align="center"><kbd><img src="header.png" height="210" alt=""/></kbd></h1>
 )
 
-<h1 align="center">Hi 👋, I'm Johnny Boustany 🇱🇧🇸🇪🇺🇸 </h1>
+<h1 align="center">Hi 👋, I'm Johnny Boustany </h1>
 
 <h3 align="center">A software engineer working at Centegix! </h3>
 
